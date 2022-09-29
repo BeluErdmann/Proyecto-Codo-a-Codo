@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* None Scrollbar */
+::-webkit-scrollbar {
+    display: none;
+}
+
+button{
+    font-weight: 500 !important;
+}
+
+.fs-6{
+    text-align: end;
+}
+
+.fs-1{
+    text-align: end;
+}
+
+.background{
+    background-color: #1E4C66;
+}
+
+.col-md-6{
+    background-color: #353A40;
+}
+
+.orador{
+    text-decoration: none;
+    color: #ffffff;
+}
